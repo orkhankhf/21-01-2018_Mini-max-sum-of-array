@@ -1,4 +1,6 @@
-# 21-01-2018_Mini-max-sum-of-array
+**Mini-Max Sum**
+
+Problem: https://www.hackerrank.com/challenges/mini-max-sum/problem
 
 Sample Input:
 1 2 3 4 5
